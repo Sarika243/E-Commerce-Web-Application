@@ -17,7 +17,7 @@ Developed a backend MySQL database to store the images,data and customer related
 
 ## Instructions To Use
 Sign in to the account,if you are already a registered user.<br />
-Else , Signup and create user account.<br />
+Else , Signup and create new user account.<br />
 Select the products you want and add them to the cart.<br />
 Go to the cart check the prices and proceed to checkout if u want to order them.<br />
 Navigate to the payment type and make payment to confirm your order.<br />
